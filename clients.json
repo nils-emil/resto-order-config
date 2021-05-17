@@ -1,0 +1,19 @@
+[
+  {
+    "domain": "demo.tellimus.com",
+    "domainAdmin": "demo-admin.tellimus.com",
+    "apiPort": "7001",
+    "adminUiPort": "8001",
+    "clientUiPort": "9001",
+    "databasePort": "10001"
+  },
+  {
+    "domain": "loputoo.tellimus.com",
+    "domainAdmin": "loputoo-admin.tellimus.com",
+    "apiPort": "7002",
+    "adminUiPort": "8002",
+    "clientUiPort": "9002",
+    "databasePort": "10002"
+  }
+]
+
